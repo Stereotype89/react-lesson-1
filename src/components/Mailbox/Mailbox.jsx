@@ -1,5 +1,3 @@
-import css from './Mailbox.module.css';
-
 export const Mailbox = ({ username, unreadMessages }) => {
   return (
     <div className="profile">

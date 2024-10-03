@@ -1,5 +1,3 @@
-import css from './Alert.module.css';
-
 export const Statistics = ({ title, stats }) => {
   let randomColor;
   randomColor = `#`;
