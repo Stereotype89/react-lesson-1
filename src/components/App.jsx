@@ -1,11 +1,14 @@
-// import { Children } from 'react';
 import UserProfile from './Profile/Profile';
 import user from './Profile/user.json';
 import data from './Statistics/data.json';
 import friends from './FriendList/friends.json';
 import transactions from './TransactionHistory/transactions.json';
 
+//////////////////// STYLES ////////////////////
 import '../index.css';
+import '../components/TransactionHistory/TransactionHistory.css';
+//////////////////// STYLES ////////////////////
+
 import { Statistics } from './Statistics/Statistics';
 import { Mailbox } from './Mailbox/Mailbox';
 import { Product } from './Products/Products';

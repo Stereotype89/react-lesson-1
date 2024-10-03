@@ -1,5 +1,3 @@
-import css from './TransactionHistory.css';
-
 export const TransactionHistory = ({ props }) => {
   return (
     <>
